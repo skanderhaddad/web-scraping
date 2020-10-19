@@ -6,3 +6,5 @@ print("bna")
 bn.bna(200)
 
 #sc.scif(200)
+
+
